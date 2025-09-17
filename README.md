@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋! My name is Arthur and I'm a programmer</h2>
+<h2 align="left">Hi👋! My name is Vilmar and I'm a programmer</h2>
 
 <p align="left">
   <strong>🎓 Studying Computer Science</strong><br>
