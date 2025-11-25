@@ -1,19 +1,22 @@
-<h1 align="center">Hi 👋, I'm Vilmar</h1>
-<h3 align="center">A passionate frontend developer from Brasil</h3>
+<h2 align="left">Hi👋! My name is Vilmar and I'm a programmer</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vilmarmichelsfilho&label=Profile%20views&color=0e75b6&style=flat" alt="vilmarmichelsfilho" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vilmarmichelsfilho" alt="vilmarmichelsfilho" /></a> </p>
+<h6 align="left">🎓 Studying Computer Science</h6>
 
-- 🔭 I’m currently working on [SEPE2K25 PI](vilmarmichelsfilho.github.io/SEPE2K25/)
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<p align="left">1/3 IFC - Campus Araquari</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vilmarmichelsfilho&show_icons=true&locale=en&layout=compact" alt="vilmarmichelsfilho" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vilmarmichelsfilho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vilmarmichelsfilho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vilmarmichelsfilho&show_icons=true&locale=en" alt="vilmarmichelsfilho" /></p>
+###
+
+<img src="https://raw.githubusercontent.com/vilmarmichelsfilho/vilmarmichelsfilho/output/snake.svg" alt="Snake animation" />
+
+###
