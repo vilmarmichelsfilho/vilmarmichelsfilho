@@ -14,10 +14,14 @@
   </div>
 </div>
 
-<h3 align="left" style="color: #ff6a00;">🔥 My Stats :</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vilmarmichelsfilho&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+## 📈 GitHub Stats
+<div style="float:left; width:100%">
+  <a href="https://github.com/ldmfabio">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ldmfabio&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</a>
+<a href="https://github.com/ldmfabio">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldmfabio&layout=donut&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/ldmfabio/ldmfabio"/>
+</a>
 </div>
 
 <div align="center">
