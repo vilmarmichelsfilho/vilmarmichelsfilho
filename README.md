@@ -1,7 +1,7 @@
-<h2 align="left">Hi👋! My name is Vilmar and I'm a programmer</h2>
+<h2 align="left">Olá👋! Meu nome é Vilmar e eu sou um programador</h2>
 
 <p align="left">
-  <strong>🎓 Studying Computer Science</strong><br>
+  <strong>🎓 Estudando Informática para Internet</strong><br>
   1/3 IFC - Campus Araquari
 </p>
 
@@ -18,6 +18,7 @@
 </div>
 
 <div align="center">
+  <br>
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
