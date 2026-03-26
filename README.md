@@ -2,7 +2,7 @@
 
 <p align="left">
   <strong>🎓 Estudando Informática para Internet</strong><br>
-  1/3 IFC - Campus Araquari
+  2/3 IFC - Campus Araquari
 </p>
 
 
